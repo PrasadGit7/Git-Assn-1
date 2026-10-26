@@ -11,12 +11,8 @@ Topics Covered
 7. Advanced unstaging and stash challenge — stage and unstage selected changes, stash and reapply work, resolve any resulting conflict, and commit the resolution.
 8. Additional operations — demonstrate rm and revert.
 Repository
-- Original repository URL: PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE
-- Fork URL (if applicable): PASTE_YOUR_FORK_URL_HERE
-Pull Requests
-Add the actual GitHub PR links below after creating them. If a step did not require a PR, write “N/A” rather than inventing a link.
-- PR 1 — g1 into main: PASTE_PR_URL_HERE
-- PR 2 — fork into original main: PASTE_PR_URL_HERE
+- Original repository URL: https://github.com/PrasadGit7/Git-Assn-1.git
+
 Evidence / Terminal Screenshots
 Store terminal screenshots in a folder named screenshots/. Use descriptive filenames, for example:
 - 01-init-and-first-commit.png
